@@ -1,0 +1,25 @@
+{
+  "name": "cosmosdbserversideprimerepisode2",
+  "version": "1.0.0",
+  "description": "Lab for learning how to query documents in CosmosDB, delete them and handle continuations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjourney/CosmosDbServerSidePrimerEpisode2.git"
+  },
+  "keywords": [
+    "cosmosdb"
+  ],
+  "author": "W. Kevin Hazzard",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/devjourney/CosmosDbServerSidePrimerEpisode2/issues"
+  },
+  "homepage": "https://github.com/devjourney/CosmosDbServerSidePrimerEpisode2#readme",
+  "dependencies": {
+    "@azure/cosmos": "^2.0.0-4"
+  }
+}
